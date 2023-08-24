@@ -1,0 +1,23 @@
+@import "../../root.css";
+
+
+.logo_text {
+    font-family: var(--primary-font);
+    margin: 0px;
+    padding: 0px;
+    font-size: var(--logo-font-size);
+    color: #000;
+    position: sticky;
+}
+
+
+#logo_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    width: 100vw;
+    top: 2rem;
+}

@@ -1,0 +1,18 @@
+@import "../../root.css";
+
+
+#season_img_container{
+    background-image: url('../../../public/assets/summer_23.png');
+    background-size: cover;
+    width: 40%;
+    height: 100%;
+}
+
+#season_text{
+    text-align: right;
+    margin-right: 4rem;
+    color: white;
+    font-family: var(--primary-font);
+    padding-top: 45rem;
+    font-size: 20px;
+}

@@ -1,0 +1,14 @@
+:root {
+    --primary-font: 'Libre Baskerville', Serif;
+    --secondary-font: 'Luxurious Roman', Serif;
+    --product-font: 'Noto Sans', Sans-Serif;
+    --logo-font-size: 48px;
+    --hero-font-size: 100px;
+    --club-font-size: 50px;
+}
+
+.landing_div {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
